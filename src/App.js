@@ -1,6 +1,6 @@
 import React from 'react';
-import BusinessList from '.components/BusinessList/BusinessList.js';
-import SearchBar from '.components/SearchBar/SearchBar.js';
+import BusinessList from './components/BusinessList/BusinessList.js';
+import SearchBar from './components/SearchBar/SearchBar.js';
 import './App.css';
 
 
